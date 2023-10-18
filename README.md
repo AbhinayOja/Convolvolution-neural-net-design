@@ -1,4 +1,3 @@
-# Convolvolution-neural-net-design
 
 # Convolvolution-neural-net-design
 ![Gif of my design](https://github.ncsu.edu/adevara3/Convolvolution-neural-net-design/blob/master/projectFall2022/Convolution_MaxPooling.gif)
